@@ -6,7 +6,7 @@ Requires `nasm` and `ld` on a Linux operating system.
 
 ```bash
 git clone https://github.com/orosmatthew/hydrogen-cpp
-cd compiler-design-assigment
+cd 'CD-Assigment'
 mkdir build
 cd build
 cmake ..
