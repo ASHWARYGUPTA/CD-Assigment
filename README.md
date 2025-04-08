@@ -27,8 +27,8 @@ Targets Linux x86-64 ABI (syscalls)
 
 
 ## PROJECT STRUCTURE
-hydro/
-├── src/
+hydro/ 
+├── src/ 
 │   ├── main.cpp        # Entry point
 │   ├── lexer.cpp       # Tokenizer
 │   ├── parser.cpp      # Recursive descent parser
