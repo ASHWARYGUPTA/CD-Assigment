@@ -1,8 +1,8 @@
-Hydro — A Simple C-Like Compiler
+## Hydro — A Simple C-Like Compiler
 Hydro is a small, self-hosted compiler written in C++.
 It compiles a simple C-like programming language to x86-64 NASM assembly targeting Linux (using the syscall ABI).
 
-Features
+## Features
 Lexer (Tokenizer)
 
 Recursive Descent Parser
@@ -26,7 +26,7 @@ Outputs .asm assembly file
 Targets Linux x86-64 ABI (syscalls)
 
 
-##PROJECT STRUCTURE
+## PROJECT STRUCTURE
 hydro/
 ├── src/
 │   ├── main.cpp        # Entry point
